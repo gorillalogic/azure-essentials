@@ -17,10 +17,9 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "session_01_api": {
+    "session-01-api": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/values",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
