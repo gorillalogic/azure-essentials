@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "session-02-api", "session-02-api\session-02-api.csproj", "{6D6A3E1D-15DA-4861-AF87-6E02CADC6ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "session-02-api.Data", "session-02-api.Data\session-02-api.Data.csproj", "{83199512-223C-47FD-8A81-EECF38EB0D5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "session-02-api.Storage", "session-02-api.Storage\session-02-api.Storage.csproj", "{1B9C5683-2812-4139-96A2-92AE69C93D11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D6A3E1D-15DA-4861-AF87-6E02CADC6ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6A3E1D-15DA-4861-AF87-6E02CADC6ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D6A3E1D-15DA-4861-AF87-6E02CADC6ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6A3E1D-15DA-4861-AF87-6E02CADC6ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83199512-223C-47FD-8A81-EECF38EB0D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83199512-223C-47FD-8A81-EECF38EB0D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83199512-223C-47FD-8A81-EECF38EB0D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83199512-223C-47FD-8A81-EECF38EB0D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B9C5683-2812-4139-96A2-92AE69C93D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9C5683-2812-4139-96A2-92AE69C93D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9C5683-2812-4139-96A2-92AE69C93D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9C5683-2812-4139-96A2-92AE69C93D11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

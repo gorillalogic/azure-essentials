@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>session_02_api.Storage</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WindowsAzure.Storage" Version="9.3.3" />
+    <PackageReference Include="Microsoft.Azure.Storage.Blob" Version="11.1.0" />
+    <PackageReference Include="Microsoft.Azure.Storage.Common" Version="11.1.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Model\" />
+    <Folder Include="Context\" />
+  </ItemGroup>
+</Project>
